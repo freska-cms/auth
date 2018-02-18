@@ -27,7 +27,7 @@ var HMACKey []byte
 var SecretKey []byte
 
 // SessionName is the name of the ssions.
-var SessionName = "fragmenta_session"
+var SessionName = "freska_session"
 
 // SessionUserKey is the session user key.
 var SessionUserKey = "user_id"
